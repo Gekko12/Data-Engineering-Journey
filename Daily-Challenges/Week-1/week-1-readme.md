@@ -10,3 +10,8 @@
         :
         return sign * rev
         ```
+- [Is Palindrome](https://leetcode.com/problems/palindrome-number/description/)
+    + We can also check it by traversing it half-way like 12321 as 12-3-21
+
+### SQL Problems
+- [Recyclable and low-fat products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50)
