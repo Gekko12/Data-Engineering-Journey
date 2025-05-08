@@ -39,3 +39,9 @@
     + Use of window function LAG()
     + Self or cross join also, can be used
 
+## Day-4
+### Python Problems
+- []()
+### SQL Problems
+- [Average time of process per machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50)
+    + Using JOIN and aggregate functions, ROUND(AVG()::numeric, 3)
