@@ -40,8 +40,10 @@
     + Self or cross join also, can be used
 
 ## Day-4
-### Python Problems
-- []()
 ### SQL Problems
 - [Average time of process per machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50)
     + Using JOIN and aggregate functions, ROUND(AVG()::numeric, 3)
+
+## Day-5
+### SQL Problems
+- [Employee Bonus](https://leetcode.com/problems/employee-bonus/?envType=study-plan-v2&envId=top-sql-50)
