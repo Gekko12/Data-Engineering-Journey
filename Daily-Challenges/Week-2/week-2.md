@@ -47,3 +47,11 @@
 ## Day-5
 ### SQL Problems
 - [Employee Bonus](https://leetcode.com/problems/employee-bonus/?envType=study-plan-v2&envId=top-sql-50)
+
+## Day-6
+### Python Problems
+- []()
+### SQL Problems
+- [Students and examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)
+    + CROSS JOIN, LEFT OUTER JOIN and COUNT(specific column) is important here.
+
