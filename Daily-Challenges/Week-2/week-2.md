@@ -55,7 +55,11 @@
 
 ## Day-7
 ### Python Problems
-- 
+- [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1)
+    + Merge sort is a popular sorting algorithm known for its efficiency and stability. It follows the divide-and-conquer approach. It works by recursively dividing the input array into two halves, recursively sorting the two halves and finally merging them back together to obtain the sorted array.
+    + Time Complexity: O(Nlog<sub>2</sub>(N)) // worst-case, avg-case, best-case
+    + Space Complexity: O(N)
+    + Stable sorting algorithm
 ### SQL Problems
 - [Managers with at least 5 direct reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50)
     + Interesting question and great example of SELF-JOIN.
