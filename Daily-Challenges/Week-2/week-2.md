@@ -59,3 +59,5 @@
 ### SQL Problems
 - [Managers with at least 5 direct reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50)
     + Interesting question and great example of SELF-JOIN.
+- [Confirmation rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50)
+    + Use of `COUNT(CASE WHEN col1='A' THEN 1 ELSE 0)::numeric`, AVG() and LEFT JOIN
