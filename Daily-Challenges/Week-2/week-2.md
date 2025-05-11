@@ -49,9 +49,13 @@
 - [Employee Bonus](https://leetcode.com/problems/employee-bonus/?envType=study-plan-v2&envId=top-sql-50)
 
 ## Day-6
-### Python Problems
-- []()
 ### SQL Problems
 - [Students and examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)
     + CROSS JOIN, LEFT OUTER JOIN and COUNT(specific column) is important here.
 
+## Day-7
+### Python Problems
+- 
+### SQL Problems
+- [Managers with at least 5 direct reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50)
+    + Interesting question and great example of SELF-JOIN.
