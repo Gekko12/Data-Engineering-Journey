@@ -2,7 +2,8 @@
 
 ## Day-1
 ### Python Problems
-- 
+- [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/)
+    + Simply replace loops with recursion calls and correct base conditions.
 ### SQL Problems
 - [Not boring movies](https://leetcode.com/problems/not-boring-movies/?envType=study-plan-v2&envId=top-sql-50)
 - [Average selling price](https://leetcode.com/problems/average-selling-price/?envType=study-plan-v2&envId=top-sql-50)
