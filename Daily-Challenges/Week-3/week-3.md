@@ -10,3 +10,7 @@
     + Very nice question to understand WHERE clause and usage of AND clause with JOIN
     + [sql-join-what-is-the-difference-between-where-clause-and-on-with-and-clause](https://stackoverflow.com/questions/354070/sql-join-what-is-the-difference-between-where-clause-and-on-clause)
 
+## Day-2
+### SQL Problems
+- [Project employees I](https://leetcode.com/problems/project-employees-i/?envType=study-plan-v2&envId=top-sql-50)
+- [Percentage of users attended a contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)
