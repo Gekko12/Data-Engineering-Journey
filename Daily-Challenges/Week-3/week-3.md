@@ -14,3 +14,8 @@
 ### SQL Problems
 - [Project employees I](https://leetcode.com/problems/project-employees-i/?envType=study-plan-v2&envId=top-sql-50)
 - [Percentage of users attended a contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)
+
+## Day-3
+### SQL Problems
+- [Queries Quality And Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50)
+    + Use of AVG() with CASE WHEN clause
