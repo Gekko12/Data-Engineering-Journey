@@ -21,3 +21,5 @@
 ### SQL Problems
 - [Queries Quality And Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50)
     + Use of AVG() with CASE WHEN clause
+- [Monthly transactions-I](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50)
+    + Use of SUBSTR(varchar, index, no_of_char_to_extract) and SUM(CASE WHEN state='approved' THEN 1 ELSE 0 END)
