@@ -23,3 +23,10 @@
     + Use of AVG() with CASE WHEN clause
 - [Monthly transactions-I](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50)
     + Use of SUBSTR(varchar, index, no_of_char_to_extract) and SUM(CASE WHEN state='approved' THEN 1 ELSE 0 END)
+
+## Day-4
+### Python Problems
+- 
+### SQL Problems
+- [Immediate Food Delivery-II](https://leetcode.com/problems/immediate-food-delivery-ii/?envType=study-plan-v2&envId=top-sql-50)
+
