@@ -26,7 +26,16 @@
 
 ## Day-4
 ### Python Problems
-- 
+- [Merge Sort]()
+    + QuickSort is a sorting algorithm based on the Divide and Conquer that picks an element as a pivot and partitions the given array around the picked pivot by placing the pivot in its correct position in the sorted array. It works on the principle of divide and conquer, breaking down the problem into smaller sub-problems.
+    + There are mainly three steps in the algorithm:
+        1. Choose a Pivot: Select an element from the array as the pivot. The choice of pivot can vary (e.g., first element, last element, random element, or median).
+        2. Partition the Array: Rearrange the array around the pivot. After partitioning, all elements smaller than the pivot will be on its left, and all elements greater than the pivot will be on its right. The pivot is then in its correct position, and we obtain the index of the pivot.
+        3. Recursively Call: Recursively apply the same process to the two partitioned sub-arrays (left and right of the pivot).
+    + Time Complexity: O(Nlog<sub>2</sub>(N)) // avg-case, best-case
+    + Time Complexity: O(N^2) // worst-case i.e. occurs when the smallest or largest element is always chosen as the pivot e.g., sorted arrays
+    + Space Complexity: O(1)
+    + Not a stable sorting algorithm
 ### SQL Problems
 - [Immediate Food Delivery-II](https://leetcode.com/problems/immediate-food-delivery-ii/?envType=study-plan-v2&envId=top-sql-50)
 
