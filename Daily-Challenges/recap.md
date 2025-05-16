@@ -1,4 +1,6 @@
 # Problems for Recap 
 
+### SQL
 - Week-3
     + [Average selling price](https://leetcode.com/problems/average-selling-price/description/)
+    + [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/?envType=study-plan-v2&envId=top-sql-50)

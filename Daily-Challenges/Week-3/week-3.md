@@ -39,3 +39,9 @@
 ### SQL Problems
 - [Immediate Food Delivery-II](https://leetcode.com/problems/immediate-food-delivery-ii/?envType=study-plan-v2&envId=top-sql-50)
 
+## Day-5
+### Python Problems
+- []()
+### SQL Problems
+- [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/?envType=study-plan-v2&envId=top-sql-50)
+    + **NOTE:** When a problem can be solved using LEAD/LAG and RANK window function, then it can also be solved by using MIN aggregate function
