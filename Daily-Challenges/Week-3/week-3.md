@@ -41,7 +41,9 @@
 
 ## Day-5
 ### Python Problems
-- []()
+- [Largest element in array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+- [Second largest element in array](https://www.geeksforgeeks.org/problems/second-largest3735/1)
+    + Can you solve this using one for loop only.
 ### SQL Problems
 - [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/?envType=study-plan-v2&envId=top-sql-50)
     + **NOTE:** When a problem can be solved using LEAD/LAG and RANK window function, then it can also be solved by using MIN aggregate function
