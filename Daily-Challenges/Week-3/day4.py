@@ -12,7 +12,7 @@ class Solution:
         pivot = low     # let's take first element as pivot
         i, j = low, high
         # logic for ascending order arrangement
-        while i < j:
+        while i <= j:
             # find element bigger than pivot from left
             print(arr[low: high + 1], pivot, i, j)
             while i <= high and arr[pivot] >= arr[i]:
@@ -20,7 +20,7 @@ class Solution:
             # find elemnt smaller than pivot from right
             while j >= 0 and arr[pivot] < arr[j]:
                 j -= 1
-            if i < j:
+            if i <= j:
                 arr[i], arr[j] = arr[j], arr[i]
                 i += 1
                 j -= 1

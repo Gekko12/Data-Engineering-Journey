@@ -26,7 +26,7 @@
 
 ## Day-4
 ### Python Problems
-- [Merge Sort]()
+- [Merge Sort](https://www.geeksforgeeks.org/problems/quick-sort/1)
     + QuickSort is a sorting algorithm based on the Divide and Conquer that picks an element as a pivot and partitions the given array around the picked pivot by placing the pivot in its correct position in the sorted array. It works on the principle of divide and conquer, breaking down the problem into smaller sub-problems.
     + There are mainly three steps in the algorithm:
         1. Choose a Pivot: Select an element from the array as the pivot. The choice of pivot can vary (e.g., first element, last element, random element, or median).
