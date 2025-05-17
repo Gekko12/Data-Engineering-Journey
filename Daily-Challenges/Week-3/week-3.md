@@ -50,9 +50,14 @@
 
 ## Day-6
 ### Python Problems
-- 
+- [Check if array is sorted and rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+    + Nice problem, use of modulo is another level.
+    + We have to compare neighboring element in array say `(a, b)` and there will be only once a match that say `a > b` e.g. `[3,4,5,1,2]` here `(5, 1)` is the only that condition, which outcomes true.
+    + Another we have to check is for `A[0] and A[A.length - 1]` for e.g. `[5, 10, 6]`, here `(a,b)` i.e. `a > b` is `(10, 6)`, but element 5 and 6 will break the above logic.
+    + So, to deal above conditions we use modulo `sum(nums[i] > nums[(i + 1) % N] for i in range(N)) <= 1`, where N is the length of array.
 ### SQL Problems
 - [Number of unique subjects taught by each teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/?envType=study-plan-v2&envId=top-sql-50)
     + Use of COUNT(DISTINCT col)
 - [User activity for the past 30 days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan-v2&envId=top-sql-50)
     + Using `::` operator for casting e.g. `('2019-07-27' :: date - 30)`
+
