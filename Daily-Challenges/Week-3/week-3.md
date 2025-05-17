@@ -47,3 +47,12 @@
 ### SQL Problems
 - [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/?envType=study-plan-v2&envId=top-sql-50)
     + **NOTE:** When a problem can be solved using LEAD/LAG and RANK window function, then it can also be solved by using MIN aggregate function
+
+## Day-6
+### Python Problems
+- 
+### SQL Problems
+- [Number of unique subjects taught by each teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/?envType=study-plan-v2&envId=top-sql-50)
+    + Use of COUNT(DISTINCT col)
+- [User activity for the past 30 days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan-v2&envId=top-sql-50)
+    + Using `::` operator for casting e.g. `('2019-07-27' :: date - 30)`
