@@ -65,3 +65,6 @@
 ### SQL Problems
 - [Product sales analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50)
     + Using RANK() window-function
+- [Classes more than 5-students](https://leetcode.com/problems/classes-more-than-5-students/description/?envType=study-plan-v2&envId=top-sql-50)
+- [Find followers count](https://leetcode.com/problems/find-followers-count/submissions/1637386593/?envType=study-plan-v2&envId=top-sql-50)
+

@@ -31,3 +31,18 @@ where rnk = 1
 -- | 100        | 2008       | 10       | 5000  |
 -- | 100        | 2008       | 10       | 5000  |
 -- | 200        | 2008       | 15       | 9000  |
+
+-- Classes more than 5-students
+select class
+from courses
+group by class
+having count(student) >= 5
+;
+
+-- Find followers count
+select user_id
+    , count(follower_id) as followers_count
+from followers
+group by user_id
+order by user_id 
+;
