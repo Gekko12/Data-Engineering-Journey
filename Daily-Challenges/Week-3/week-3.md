@@ -61,3 +61,7 @@
 - [User activity for the past 30 days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan-v2&envId=top-sql-50)
     + Using `::` operator for casting e.g. `('2019-07-27' :: date - 30)`
 
+## Day-7
+### SQL Problems
+- [Product sales analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50)
+    + Using RANK() window-function
