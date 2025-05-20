@@ -10,3 +10,5 @@
 ### Python
 - Week-3
     + [Check if array is sorted and rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+- Week-4
+    + [Rotate Array](https://leetcode.com/problems/rotate-array/description/)

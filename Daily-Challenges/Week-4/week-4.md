@@ -10,6 +10,15 @@
 
 ## Day-2
 ### Python Problems
+- [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+    + First rotate/reverse the array fully, then reverse the first K-half element then reverse after K-half
+    ```
+        arr = [1,2,3,4,5]   k = 2
+        1. [5,4,3,2,1]      # full array reverse
+        2. [4,5 | 3,2,1]    # reverse first K-half 
+        3. [4,5 | 1,2,3]    # reverse after K-half
+    ```
+
 ### SQL Problems
 - [Customers who bought all products](https://leetcode.com/problems/customers-who-bought-all-products/?envType=study-plan-v2&envId=top-sql-50)
     + Subquery with GROUP BY HAVING clause
