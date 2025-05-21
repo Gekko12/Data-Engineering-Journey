@@ -18,9 +18,12 @@
         2. [4,5 | 3,2,1]    # reverse first K-half 
         3. [4,5 | 1,2,3]    # reverse after K-half
     ```
-
 ### SQL Problems
 - [Customers who bought all products](https://leetcode.com/problems/customers-who-bought-all-products/?envType=study-plan-v2&envId=top-sql-50)
     + Subquery with GROUP BY HAVING clause
 - [The number of employees which report to each employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50)
     + Using SELF JOIN
+
+## Day-3
+### SQL Problems
+- [Primary department for each employee](https://leetcode.com/problems/primary-department-for-each-employee/?envType=study-plan-v2&envId=top-sql-50)
