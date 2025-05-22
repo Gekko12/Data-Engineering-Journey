@@ -32,3 +32,5 @@
 ### SQL Problems
 - [Triangle judgement](https://leetcode.com/problems/triangle-judgement/?envType=study-plan-v2&envId=top-sql-50)
     + Three line segment can form a triangle if every combination of two sides is greater than third side.
+- [Consecutive numbers](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50)
+    + Nice question, we can solve this by using JOIN, SUBQUERY as well as LEAD/LAG window functions
