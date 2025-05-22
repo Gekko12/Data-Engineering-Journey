@@ -27,3 +27,8 @@
 ## Day-3
 ### SQL Problems
 - [Primary department for each employee](https://leetcode.com/problems/primary-department-for-each-employee/?envType=study-plan-v2&envId=top-sql-50)
+
+## Day-4
+### SQL Problems
+- [Triangle judgement](https://leetcode.com/problems/triangle-judgement/?envType=study-plan-v2&envId=top-sql-50)
+    + Three line segment can form a triangle if every combination of two sides is greater than third side.
