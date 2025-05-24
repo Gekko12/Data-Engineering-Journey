@@ -39,3 +39,8 @@
 ### SQL Problems
 - [Product price at a given date](https://leetcode.com/problems/product-price-at-a-given-date/?envType=study-plan-v2&envId=top-sql-50)
     + Intersting problem with various approach to solve
+
+## Day-6
+### SQL Problems
+- [Last person to fit in the bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50)
+    + Very good question, learnt how to use cumulative sum using window functions i.e. `SUM(amount) OVER(ORDER BY transaction_id) AS cumulative_amount`
