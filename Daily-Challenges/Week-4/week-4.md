@@ -44,3 +44,7 @@
 ### SQL Problems
 - [Last person to fit in the bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50)
     + Very good question, learnt how to use cumulative sum using window functions i.e. `SUM(amount) OVER(ORDER BY transaction_id) AS cumulative_amount`
+
+## Day-7
+### SQL Problems
+- [Employees whose manager left the company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50)
