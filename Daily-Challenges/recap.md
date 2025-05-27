@@ -15,3 +15,5 @@
     + [Check if array is sorted and rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
 - Week-4
     + [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+- Week-5
+    + [Move zeroes](https://leetcode.com/problems/move-zeroes/)
