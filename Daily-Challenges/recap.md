@@ -11,7 +11,8 @@
     + [Last person to fit in the bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50)
 - Week-5
     + [Exchange seats](https://leetcode.com/problems/exchange-seats/?envType=study-plan-v2&envId=top-sql-50)
-
+    + [Restaurant growth](https://leetcode.com/problems/restaurant-growth/description/)
+    
 ### Python
 - Week-3
     + [Check if array is sorted and rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)

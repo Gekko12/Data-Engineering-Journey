@@ -20,3 +20,8 @@
 ### SQL Problems
 - [Movie rating](https://leetcode.com/problems/movie-rating/description/?envType=study-plan-v2&envId=top-sql-50)
     + Nice question which covers, most of the sql aspects
+
+## Day-4
+### SQL Problems
+- [Restaurant growth](https://leetcode.com/problems/restaurant-growth/description/)
+    + Moving average question with window of 7 days
