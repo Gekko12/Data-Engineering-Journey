@@ -12,7 +12,8 @@
 - Week-5
     + [Exchange seats](https://leetcode.com/problems/exchange-seats/?envType=study-plan-v2&envId=top-sql-50)
     + [Restaurant growth](https://leetcode.com/problems/restaurant-growth/description/)
-    
+    + [Friend requests ii who has the most friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/?envType=study-plan-v2&envId=top-sql-50)
+    + [Investements in 2016](https://leetcode.com/problems/investments-in-2016/?envType=study-plan-v2&envId=top-sql-50)
 ### Python
 - Week-3
     + [Check if array is sorted and rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
