@@ -31,9 +31,11 @@
 - [Missing number](https://leetcode.com/problems/missing-number/)
     + Using index sum, and running sum
     + NOTE: Be aware of overflow situation
+- [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 ### SQL Problems
-- [Friend requests ii who has the most friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/?envType=study-plan-v2&envId=top-sql-50)
+- [Friend requests-II who has the most friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/?envType=study-plan-v2&envId=top-sql-50)
     + Question which can be solved using UNION ALL and FULL OUTER JOIN
 - [Investements in 2016](https://leetcode.com/problems/investments-in-2016/?envType=study-plan-v2&envId=top-sql-50)
 - [Department top three salaries](https://leetcode.com/problems/department-top-three-salaries/?envType=study-plan-v2&envId=top-sql-50)
     + Use of DENSE_RANK
+
