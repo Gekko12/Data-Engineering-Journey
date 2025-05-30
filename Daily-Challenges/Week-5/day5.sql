@@ -70,3 +70,22 @@ from cte
 where tv_cnt > 1 
 and l_cnt < 2
 ;
+
+-- Department top three salaries
+with cte as (
+    select emp.id as emp_id
+        , emp.name as emp_name
+        , emp.salary as emp_salary
+        , dept.id as dept_id
+        , dept.name as dept_name
+        , dense_rank() over(partition by departmentId order by salary desc) rnk
+    from employee emp
+    join department dept
+    on emp.departmentId = dept.id
+)
+select dept_name as department
+    , emp_name as employee
+    , emp_salary as salary
+from cte
+where rnk < 4
+;
