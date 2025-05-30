@@ -25,3 +25,9 @@
 ### SQL Problems
 - [Restaurant growth](https://leetcode.com/problems/restaurant-growth/description/)
     + Moving average question with window of 7 days
+
+## Day-5
+### Python Problems
+- [Missing number](https://leetcode.com/problems/missing-number/)
+    + Using index sum, and running sum
+    + NOTE: Be aware of overflow situation
