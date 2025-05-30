@@ -21,3 +21,4 @@
     + [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 - Week-5
     + [Move zeroes](https://leetcode.com/problems/move-zeroes/)
+    + [Single Number](https://leetcode.com/problems/single-number/)

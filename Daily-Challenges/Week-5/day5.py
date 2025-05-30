@@ -30,7 +30,15 @@ class Solution:
             i = max(i + 1, j)
         return max_ones
 
+    def singleNumber(self, nums: List[int]) -> int:
+        # XOR: If the corresponding bits are the same, the result is 0.
+        # Same principle we can use to detect number which is not repeated twice
+        ans = 0
+        for num in nums:
+            ans ^= num
+        return ans
 
 if __name__ == '__main__':
     print('Missing Numer:', Solution().missingNumber([3, 0, 1, 4, 5]))
     print('Consecutive Max Ones:', Solution().findMaxConsecutiveOnes([1, 1, 0, 1, 1, 1, 0, 1]))
+    print('Single Number:', Solution().singleNumber([1, 2, 3, 1, 3]))

@@ -32,6 +32,8 @@
     + Using index sum, and running sum
     + NOTE: Be aware of overflow situation
 - [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+- [Single Number](https://leetcode.com/problems/single-number/)
+    + Use of XOR (^) operator to detect non-duplicate element
 ### SQL Problems
 - [Friend requests-II who has the most friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/?envType=study-plan-v2&envId=top-sql-50)
     + Question which can be solved using UNION ALL and FULL OUTER JOIN
