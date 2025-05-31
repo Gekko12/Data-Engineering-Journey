@@ -41,3 +41,8 @@
 - [Department top three salaries](https://leetcode.com/problems/department-top-three-salaries/?envType=study-plan-v2&envId=top-sql-50)
     + Use of DENSE_RANK
 
+## Day-6
+### SQL Problems
+- [fix-names-in-a-table](https://leetcode.com/problems/fix-names-in-a-table/?envType=study-plan-v2&envId=top-sql-50)
+    + Use of SUBSTR(str, startIndex[, NoOfCharToExtract]), UPPER(), LOWER(), CONCAT()
+
