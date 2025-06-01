@@ -46,3 +46,7 @@
 - [fix-names-in-a-table](https://leetcode.com/problems/fix-names-in-a-table/?envType=study-plan-v2&envId=top-sql-50)
     + Use of SUBSTR(str, startIndex[, NoOfCharToExtract]), UPPER(), LOWER(), CONCAT()
 
+## Day-7
+### SQL Problems
+- [patients-with-a-condition](https://leetcode.com/problems/patients-with-a-condition/description/)
+    + Good question, learn about UNNEST and EXISTS
