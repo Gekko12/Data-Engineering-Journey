@@ -16,7 +16,10 @@
     + [Investements in 2016](https://leetcode.com/problems/investments-in-2016/?envType=study-plan-v2&envId=top-sql-50)
     + [patients-with-a-condition](https://leetcode.com/problems/patients-with-a-condition/description/)
         * Learn how to use UNNEST and EXISTS
+- Week-6
+    + [Delete duplicate emails](https://leetcode.com/problems/delete-duplicate-emails/description/)
 
+    
 ### Python
 - Week-3
     + [Check if array is sorted and rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
