@@ -4,3 +4,7 @@
 ### SQL Problems
 - [Delete duplicate emails](https://leetcode.com/problems/delete-duplicate-emails/description/)
     + Can be solved using JOINS, subquery or CTE
+
+## Day-2
+### SQL Problems
+- [second-highest-salary](https://leetcode.com/problems/second-highest-salary/)
