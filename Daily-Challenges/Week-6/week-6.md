@@ -8,3 +8,8 @@
 ## Day-2
 ### SQL Problems
 - [second-highest-salary](https://leetcode.com/problems/second-highest-salary/)
+
+## Day-3
+### SQL Problems
+- [group-sold-products-by-the-date](https://leetcode.com/problems/group-sold-products-by-the-date/)
+    + Use of `STRING_AGG(expression, separator [order by colName])`
