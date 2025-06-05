@@ -13,3 +13,11 @@
 ### SQL Problems
 - [group-sold-products-by-the-date](https://leetcode.com/problems/group-sold-products-by-the-date/)
     + Use of `STRING_AGG(expression, separator [order by colName])`
+
+## Day-4
+### Python Problems
+- [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+    + It has two version, one with two-pointer approach which will work for positive elements in array.
+    + Another using hashing
+### SQL Problems
+    - 

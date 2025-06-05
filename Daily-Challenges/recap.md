@@ -28,3 +28,5 @@
 - Week-5
     + [Move zeroes](https://leetcode.com/problems/move-zeroes/)
     + [Single Number](https://leetcode.com/problems/single-number/)
+- Week-6
+    + [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
