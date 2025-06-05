@@ -20,4 +20,6 @@
     + It has two version, one with two-pointer approach which will work for positive elements in array.
     + Another using hashing
 ### SQL Problems
-    - 
+- [list-the-products-ordered-in-a-period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)
+- [find-users-with-valid-e-mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)
+    + Use of `SIMILAR TO` and tilde operator `~` for regex
