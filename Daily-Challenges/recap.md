@@ -18,6 +18,8 @@
         * Learn how to use UNNEST and EXISTS
 - Week-6
     + [Delete duplicate emails](https://leetcode.com/problems/delete-duplicate-emails/description/)
+    + [find-users-with-valid-e-mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)
+        * Learn use of tilde operator `~` and `SIMILAR TO` clause for regex
 
     
 ### Python
