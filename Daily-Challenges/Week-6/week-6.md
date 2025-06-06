@@ -23,3 +23,7 @@
 - [list-the-products-ordered-in-a-period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)
 - [find-users-with-valid-e-mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)
     + Use of `SIMILAR TO` and tilde operator `~` for regex
+
+## Day-5
+### SQL Problems
+- [actors-and-directors-who-cooperated-at-least-three-times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)
