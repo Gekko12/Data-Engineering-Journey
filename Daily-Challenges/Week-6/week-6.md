@@ -27,3 +27,7 @@
 ## Day-5
 ### SQL Problems
 - [actors-and-directors-who-cooperated-at-least-three-times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)
+
+## Day-6
+### SQL Problems
+- [sales-analysis-III](https://leetcode.com/problems/sales-analysis-iii/)
