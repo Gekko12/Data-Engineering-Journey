@@ -31,3 +31,8 @@
 ## Day-6
 ### SQL Problems
 - [sales-analysis-III](https://leetcode.com/problems/sales-analysis-iii/)
+
+## Day-7
+### SQL Problems
+- [market-analysis-I](https://leetcode.com/problems/market-analysis-i/)
+

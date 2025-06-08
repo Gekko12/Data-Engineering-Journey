@@ -3,6 +3,8 @@
 ### SQL
 - Week-3
     + [Average selling price](https://leetcode.com/problems/average-selling-price/description/)
+        * Very nice question to understand WHERE clause and usage of AND clause with JOIN
+        * [sql-join-what-is-the-difference-between-where-clause-and-on-with-and-clause](https://stackoverflow.com/questions/354070/sql-join-what-is-the-difference-between-where-clause-and-on-clause)
     + [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/?envType=study-plan-v2&envId=top-sql-50)
 - Weel-4
     + [Biggest single number](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50)
