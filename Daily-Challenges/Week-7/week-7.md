@@ -1,0 +1,7 @@
+# Week 7 Problem Notes & Links
+
+## Day-1
+### SQL Problems
+- [reformat-department-table](https://leetcode.com/problems/reformat-department-table/)
+
+

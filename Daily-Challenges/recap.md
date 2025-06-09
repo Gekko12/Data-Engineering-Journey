@@ -22,8 +22,10 @@
     + [Delete duplicate emails](https://leetcode.com/problems/delete-duplicate-emails/description/)
     + [find-users-with-valid-e-mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)
         * Learn use of tilde operator `~` and `SIMILAR TO` clause for regex
+- Week-7
+    + [reformat-department-table](https://leetcode.com/problems/reformat-department-table/)
+        * Learn about pivoting
 
-    
 ### Python
 - Week-3
     + [Check if array is sorted and rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
