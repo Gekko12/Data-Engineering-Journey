@@ -25,6 +25,8 @@
 - Week-7
     + [reformat-department-table](https://leetcode.com/problems/reformat-department-table/)
         * Learn about pivoting
+    + [capital-gainloss](https://leetcode.com/problems/capital-gainloss/)
+        * Using single `SUM()` to subtract is awesome. 
 
 ### Python
 - Week-3

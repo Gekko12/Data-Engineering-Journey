@@ -4,4 +4,8 @@
 ### SQL Problems
 - [reformat-department-table](https://leetcode.com/problems/reformat-department-table/)
 
+## Day-2
+### SQL Problems
+- [capital-gainloss](https://leetcode.com/problems/capital-gainloss/)
+    + Using single `SUM()` to subtract is awesome. 
 
