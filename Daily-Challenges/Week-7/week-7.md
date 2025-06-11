@@ -9,3 +9,6 @@
 - [capital-gainloss](https://leetcode.com/problems/capital-gainloss/)
     + Using single `SUM()` to subtract is awesome. 
 
+## Day-3
+### SQL Problems
+- [top-travellers]()
