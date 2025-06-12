@@ -12,3 +12,7 @@
 ## Day-3
 ### SQL Problems
 - [top-travellers](https://leetcode.com/problems/top-travellers/)
+
+## Day-4
+### SQL Problems
+- [bank-account-summary-ii](https://leetcode.com/problems/bank-account-summary-ii/)
