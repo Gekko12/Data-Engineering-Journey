@@ -20,3 +20,7 @@
 ## Day-5
 ### SQL Problems
 - [daily-leads-and-partners](https://leetcode.com/problems/daily-leads-and-partners/description/)
+
+## Day-6
+### SQL Problems
+- [find-total-time-spent-by-each-employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
