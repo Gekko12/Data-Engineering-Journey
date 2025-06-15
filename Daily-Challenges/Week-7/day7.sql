@@ -1,6 +1,7 @@
 -- Write your PostgreSQL query statement below
 
 -- rearrange-products-table
+-- Approach 1
 select *
 from (
     select product_id
@@ -19,4 +20,20 @@ from (
     from products
 ) tbl
 where price is not null
+;
+
+-- Approach 2
+SELECT 
+    product_id, 
+    store,
+    price
+FROM (
+  SELECT 
+    product_id, 
+    UNNEST(ARRAY['store1', 'store2', 'store3']) AS store,
+    UNNEST(ARRAY[store1, store2, store3]) AS price
+  FROM 
+    Products
+) AS unpivot
+WHERE price IS NOT NULL
 ;

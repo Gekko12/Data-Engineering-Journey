@@ -28,4 +28,4 @@
 ## Day-7
 ### SQL Problems
 - [rearrange-products-table](https://leetcode.com/problems/rearrange-products-table/)
-
+    + UNNEST usage
