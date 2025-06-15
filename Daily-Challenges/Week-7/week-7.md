@@ -24,3 +24,8 @@
 ## Day-6
 ### SQL Problems
 - [find-total-time-spent-by-each-employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
+
+## Day-7
+### SQL Problems
+- [rearrange-products-table](https://leetcode.com/problems/rearrange-products-table/)
+
