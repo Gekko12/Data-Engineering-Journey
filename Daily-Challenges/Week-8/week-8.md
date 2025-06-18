@@ -8,3 +8,8 @@
 ## Day-2
 ### SQL Problems
 - [the-latest-login-in-2020](https://leetcode.com/problems/the-latest-login-in-2020/)
+
+## Day-3
+### SQL Problems
+- [employees-with-missing-information](https://leetcode.com/problems/employees-with-missing-information/)
+
