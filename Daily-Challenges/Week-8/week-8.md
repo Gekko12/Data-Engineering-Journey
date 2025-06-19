@@ -13,3 +13,6 @@
 ### SQL Problems
 - [employees-with-missing-information](https://leetcode.com/problems/employees-with-missing-information/)
 
+## Day-4
+### SQL Problems
+- [first-letter-capitalization-II](https://leetcode.com/problems/first-letter-capitalization-ii/)
