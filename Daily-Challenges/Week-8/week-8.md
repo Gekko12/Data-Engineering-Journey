@@ -16,3 +16,7 @@
 ## Day-4
 ### SQL Problems
 - [first-letter-capitalization-II](https://leetcode.com/problems/first-letter-capitalization-ii/)
+
+## Day-5
+### SQL Problems
+- [odd-and-even-transactions](https://leetcode.com/problems/odd-and-even-transactions/)
