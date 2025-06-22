@@ -25,3 +25,9 @@
 ### SQL Problems
 - [find-students-who-improved](https://leetcode.com/problems/find-students-who-improved/)
     + Very good question, learn about the usage of `FIRST_VALUE()` window function
+
+## Day-7
+### SQL Problems
+- [find-valid-emails](https://leetcode.com/problems/find-valid-emails/)
+- [find-invalid-ip-addresses](https://leetcode.com/problems/find-invalid-ip-addresses/)
+    + Interesting problem, use `UNNEST`, `STRING_TO_ARRAY`, `CARDINALITY`, and also `ORDER BY` with more than one column in descending order.

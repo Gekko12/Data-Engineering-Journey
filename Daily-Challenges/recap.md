@@ -30,6 +30,8 @@
 - Week-8
     + [find-students-who-improved](https://leetcode.com/problems/find-students-who-improved/)
         * Use `FIRST_VALUE` and `LAST_VALUE`, window frame functions
+    + [find-invalid-ip-addresses](https://leetcode.com/problems/find-invalid-ip-addresses/)
+        * Interesting problem, use `UNNEST`, `STRING_TO_ARRAY`, `CARDINALITY`, and also `ORDER BY` with more than one column in descending order.
 
 ### Python
 - Week-3
