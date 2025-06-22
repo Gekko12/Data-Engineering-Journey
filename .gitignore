@@ -1,3 +1,3 @@
 spark-4.0.0-bin-hadoop3
-venv
+pyspark-venv
 .ipynb_checkpoints
