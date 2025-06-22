@@ -20,3 +20,8 @@
 ## Day-5
 ### SQL Problems
 - [odd-and-even-transactions](https://leetcode.com/problems/odd-and-even-transactions/)
+
+## Day-6
+### SQL Problems
+- [find-students-who-improved](https://leetcode.com/problems/find-students-who-improved/)
+    + Very good question, learn about the usage of `FIRST_VALUE()` window function

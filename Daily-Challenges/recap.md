@@ -27,6 +27,9 @@
         * Learn about pivoting
     + [capital-gainloss](https://leetcode.com/problems/capital-gainloss/)
         * Using single `SUM()` to subtract is awesome. 
+- Week-8
+    + [find-students-who-improved](https://leetcode.com/problems/find-students-who-improved/)
+        * Use `FIRST_VALUE` and `LAST_VALUE`, window frame functions
 
 ### Python
 - Week-3
