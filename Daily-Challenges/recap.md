@@ -32,6 +32,9 @@
         * Use `FIRST_VALUE` and `LAST_VALUE`, window frame functions
     + [find-invalid-ip-addresses](https://leetcode.com/problems/find-invalid-ip-addresses/)
         * Interesting problem, use `UNNEST`, `STRING_TO_ARRAY`, `CARDINALITY`, and also `ORDER BY` with more than one column in descending order.
+- Week-9
+    + [analyze-subscription-conversion](https://leetcode.com/problems/analyze-subscription-conversion/description/)
+        * **NOTE**: COUNT() does not count NULLs, AVG() ignores NULLs, and SUM() also ignores NULLs.
 
 ### Python
 - Week-3
