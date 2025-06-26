@@ -35,6 +35,8 @@
 - Week-9
     + [analyze-subscription-conversion](https://leetcode.com/problems/analyze-subscription-conversion/description/)
         * **NOTE**: COUNT() does not count NULLs, AVG() ignores NULLs, and SUM() also ignores NULLs.
+    + [find-product-recommendation-pairs](https://leetcode.com/problems/find-product-recommendation-pairs/description/)
+        * Mind-boggling questions
 
 ### Python
 - Week-3
