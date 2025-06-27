@@ -18,3 +18,7 @@
 ### SQL Problems
 - [find-product-recommendation-pairs](https://leetcode.com/problems/find-product-recommendation-pairs/description/)
     + Learn how to use JOIN using the conditions
+
+## Day-5
+### SQL Problems
+- [find-books-with-no-available-copies](https://leetcode.com/problems/find-books-with-no-available-copies/)
