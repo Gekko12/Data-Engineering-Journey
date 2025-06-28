@@ -22,3 +22,7 @@
 ## Day-5
 ### SQL Problems
 - [find-books-with-no-available-copies](https://leetcode.com/problems/find-books-with-no-available-copies/)
+
+## Day-6
+### SQL Problems
+- [seasonal-sales-analysis](https://leetcode.com/problems/seasonal-sales-analysis/description/)
