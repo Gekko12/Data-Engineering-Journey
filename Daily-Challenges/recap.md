@@ -37,6 +37,8 @@
         * **NOTE**: COUNT() does not count NULLs, AVG() ignores NULLs, and SUM() also ignores NULLs.
     + [find-product-recommendation-pairs](https://leetcode.com/problems/find-product-recommendation-pairs/description/)
         * Mind-boggling questions
+- Week-10
+    + [find-covid-recovery-patients](https://leetcode.com/problems/find-covid-recovery-patients/description/)
 
 ### Python
 - Week-3
