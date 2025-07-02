@@ -9,3 +9,6 @@
 - [find-covid-recovery-patients](https://leetcode.com/problems/find-covid-recovery-patients/description/)
     + SELF JOIN, ROW_NUMBER
 
+## Day-3
+### SQL Problems
+- [find-drivers-with-improved-fuel-efficiency](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/)
