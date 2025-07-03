@@ -12,3 +12,7 @@
 ## Day-3
 ### SQL Problems
 - [find-drivers-with-improved-fuel-efficiency](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/)
+
+## Day-4
+### SQL Problems
+- [find-category-recommendation-pairs](https://leetcode.com/problems/find-category-recommendation-pairs/description/)
