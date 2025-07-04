@@ -16,3 +16,9 @@
 ## Day-4
 ### SQL Problems
 - [find-category-recommendation-pairs](https://leetcode.com/problems/find-category-recommendation-pairs/description/)
+
+## Day-5
+### Python Problems
+- [remove-element](https://leetcode.com/problems/remove-element/description/)
+    + Same as [Move zeroes](https://leetcode.com/problems/move-zeroes/)
+    + Use of snowball technique, means accumulating all zeroes as we move forward, having time complexity of O(N), in-place solution.

@@ -50,3 +50,7 @@
     + [Single Number](https://leetcode.com/problems/single-number/)
 - Week-6
     + [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+- Week-10
+    + [remove-element](https://leetcode.com/problems/remove-element/description/)
+        * Same as [Move zeroes](https://leetcode.com/problems/move-zeroes/)
+        * Use of snowball technique, means accumulating all zeroes as we move forward, having time complexity of O(N), in-place solution.
