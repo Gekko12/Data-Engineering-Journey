@@ -22,3 +22,9 @@
 - [remove-element](https://leetcode.com/problems/remove-element/description/)
     + Same as [Move zeroes](https://leetcode.com/problems/move-zeroes/)
     + Use of snowball technique, means accumulating all zeroes as we move forward, having time complexity of O(N), in-place solution.
+
+## Day-5
+### Python Problems
+- [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/description/)
+    + Twist comes when we do this in O(m+n) time complexity with in-place solution.
+    
