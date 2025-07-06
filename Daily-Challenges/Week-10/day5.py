@@ -7,7 +7,7 @@ class Solution:
         for i in range(n):
             if nums[i] == val:
                 snowball += 1
-            else:
+            elif snowball:
                 nums[i], nums[i - snowball] = nums[i - snowball], nums[i]
         return (n - snowball)
 
