@@ -18,7 +18,7 @@
 ### Python Problems
 - [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
     + It has two version, one with two-pointer approach which will work for positive elements in array.
-    + Another using hashing
+    + Another using hashing, that will work with negative as well, Week-11, day2.py
 ### SQL Problems
 - [list-the-products-ordered-in-a-period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)
 - [find-users-with-valid-e-mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)

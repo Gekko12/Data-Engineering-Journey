@@ -49,10 +49,14 @@
     + [Move zeroes](https://leetcode.com/problems/move-zeroes/)
     + [Single Number](https://leetcode.com/problems/single-number/)
 - Week-6
-    + [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+    + [Longest Subarray with Sum K (+ve elements)](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
 - Week-10
     + [remove-element](https://leetcode.com/problems/remove-element/description/)
         * Same as [Move zeroes](https://leetcode.com/problems/move-zeroes/)
         * Use of snowball technique, means accumulating all zeroes as we move forward, having time complexity of O(N), in-place solution.
     + [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/description/)
         * Twist comes when we do this in O(m+n) time complexity with in-place solution.
+- Week-11
+    + [Longest Subarray with Sum K (both +ve and -ve elements)](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+        * [Reference tutorial](https://www.geeksforgeeks.org/dsa/longest-sub-array-sum-k/)
+        * Very good problem, for +ve element check Week-6, day4.py 
