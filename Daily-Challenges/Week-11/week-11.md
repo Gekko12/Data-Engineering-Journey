@@ -11,3 +11,9 @@
     + [Reference tutorial](https://www.geeksforgeeks.org/dsa/longest-sub-array-sum-k/)
     + Very good problem, for +ve element check Week-6, day4.py 
 - [Two Sum](https://leetcode.com/problems/two-sum/description/)
+
+## Day-3
+### Python Problems
+- [majority-element](https://leetcode.com/problems/majority-element/)
+    + Boyer-Moore Majority Voting Algorithm
+    + Time: O(N) and Space: O(1)
