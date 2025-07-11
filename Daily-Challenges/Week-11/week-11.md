@@ -17,3 +17,8 @@
 - [majority-element](https://leetcode.com/problems/majority-element/)
     + Boyer-Moore Majority Voting Algorithm
     + Time: O(N) and Space: O(1)
+
+## Day-4
+### Python Problems
+- [valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+    + Two pointer approach, space and time O(N)
