@@ -22,3 +22,8 @@
 ### Python Problems
 - [valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)
     + Two pointer approach, space and time O(N)
+
+## Day-5
+### Python Problems
+- [palindrome-number](https://leetcode.com/problems/palindrome-number/description/)
+
