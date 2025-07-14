@@ -20,15 +20,20 @@ class Solution:
         return 0
 
     def majorityElement(self, nums: List[int]) -> int:
-        pass
-        # [x y x y x]
-        #  1 1 2 2 3 (x)
-        #  0 1 1 2 2 (y)
-        #  1 1 1 1 1
-        #  3, 2 ,3, 2, 2, 1
-        #  1 1 1 1 2 1
-        # 0
+        """
+        Boyer-Moore Majority Voting Algorithm
+        """
+        candid = votes = 0
+        for ele in nums:
+            if not votes:
+                candid, votes = ele, 1
+            elif ele == candid:
+                votes += 1
+            else:
+                votes -= 1
+            print(f'Candidate: {candid} Votes: {votes}')
+        return candid
 
 
 if __name__ == '__main__':
-    print(Solution().majorityElement([[3,2,3]]))
+    print(Solution().majorityElement([1,1,3,1,1,2]))
