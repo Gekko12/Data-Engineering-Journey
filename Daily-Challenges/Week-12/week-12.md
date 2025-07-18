@@ -12,3 +12,8 @@
 ## Day-2
 ### Python Problems
 - [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+## Day-3
+### Python Problems
+- [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+    + Using two-pointer approach
