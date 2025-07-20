@@ -17,3 +17,8 @@
 ### Python Problems
 - [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
     + Using two-pointer approach
+
+## Day-4
+### Python Problems
+- [contains-duplicate](https://leetcode.com/problems/contains-duplicate/)
+    + Can be solved using python `dict()`, and optimally with `set()`
